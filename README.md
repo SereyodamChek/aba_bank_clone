@@ -1,4 +1,3 @@
-
 # 💳 ABA Bank Clone - Flutter Banking App
 
 <div align="center">
@@ -11,8 +10,19 @@
 **A premium banking application clone with smooth animations and modern UI/UX design**
 
 </div>
-
----
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Login 1</b><br><img src="login_1.png" alt="Login 1" width="150"/></td>
+      <td align="center"><b>Login 2</b><br><img src="login_2.png" alt="Login 2" width="150"/></td>
+       <td align="center"><b>Phone</b><br><img src="phone_1.png" alt="Phone" width="150"/></td>
+       <td align="center"><b>Verify</b><br><img src="verify_1.png" alt="Verify" width="150"/></td>
+      <td align="center"><b>Home 1</b><br><img src="home_1.png" alt="Home 1" width="150"/></td>
+      <td align="center"><b>Home 2</b><br><img src="home_2.png" alt="Home 2" width="150"/></td>
+      <td align="center"><b>QR Code</b><br><img src="qr_1.png" alt="QR Code" width="150"/></td>
+    </tr>
+  </table>
+</div>
 
 ## ⚠️ Disclaimer
 
@@ -48,21 +58,6 @@ ABA Bank Clone is a fully functional banking application built with Flutter, fea
 - 🌙 **Modern Material Design**
 - ⚡ **High Performance & Optimized**
 
-## 🎬 App Screenshots
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Login 1</b><br><img src="login_1.png" alt="Login 1" width="150"/></td>
-      <td align="center"><b>Login 2</b><br><img src="login_2.png" alt="Login 2" width="150"/></td>
-       <td align="center"><b>Phone</b><br><img src="phone_1.png" alt="Phone" width="150"/></td>
-       <td align="center"><b>Verify</b><br><img src="verify_1.png" alt="Verify" width="150"/></td>
-      <td align="center"><b>Home 1</b><br><img src="home_1.png" alt="Home 1" width="150"/></td>
-      <td align="center"><b>Home 2</b><br><img src="home_2.png" alt="Home 2" width="150"/></td>
-      <td align="center"><b>QR Code</b><br><img src="qr_1.png" alt="QR Code" width="150"/></td>
-    </tr>
-  </table>
-</div>
 
 ## 🎨 Animation Highlights
 
