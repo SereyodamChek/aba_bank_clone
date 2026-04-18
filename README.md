@@ -50,46 +50,16 @@ ABA Bank Clone is a fully functional banking application built with Flutter, fea
 
 ## 🎬 App Screenshots
 
-### Login Flow
 <div align="center">
   <table>
     <tr>
-      <td align="center"><b>Login Screen 1</b></td>
-      <td align="center"><b>Login Screen 2</b></td>
-    </tr>
-    <tr>
-      <td><img src="login_1.png" alt="Login 1" width="250"/></td>
-      <td><img src="login_2.png" alt="Login 2" width="250"/></td>
-    </tr>
-  </table>
-</div>
-
-### Home Dashboard
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Home Screen 1</b></td>
-      <td align="center"><b>Home Screen 2</b></td>
-    </tr>
-    <tr>
-      <td><img src="home_1.png" alt="Home 1" width="250"/></td>
-      <td><img src="home_2.png" alt="Home 2" width="250"/></td>
-    </tr>
-  </table>
-</div>
-
-### Verification & Payment
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Phone Verification</b></td>
-      <td align="center"><b>QR Payment</b></td>
-      <td align="center"><b>Verify Account</b></td>
-    </tr>
-    <tr>
-      <td><img src="phone_1.png" alt="Phone" width="200"/></td>
-      <td><img src="qr_1.png" alt="QR Code" width="200"/></td>
-      <td><img src="verify_1.png" alt="Verify" width="200"/></td>
+      <td align="center"><b>Login 1</b><br><img src="login_1.png" alt="Login 1" width="150"/></td>
+      <td align="center"><b>Login 2</b><br><img src="login_2.png" alt="Login 2" width="150"/></td>
+       <td align="center"><b>Phone</b><br><img src="phone_1.png" alt="Phone" width="150"/></td>
+       <td align="center"><b>Verify</b><br><img src="verify_1.png" alt="Verify" width="150"/></td>
+      <td align="center"><b>Home 1</b><br><img src="home_1.png" alt="Home 1" width="150"/></td>
+      <td align="center"><b>Home 2</b><br><img src="home_2.png" alt="Home 2" width="150"/></td>
+      <td align="center"><b>QR Code</b><br><img src="qr_1.png" alt="QR Code" width="150"/></td>
     </tr>
   </table>
 </div>
@@ -260,4 +230,3 @@ If you have any questions or need help, please open an issue or contact me direc
 ⭐ Star this repo if you find it helpful!
 
 </div>
-
