@@ -1,5 +1,9 @@
-# 💳 ABA Bank Clone - Flutter Banking App
-### 💻 Sereyodam Chek
+<p align="center">
+  <img src="https://goldzonemedia.com.kh/wp-content/uploads/2024/01/352410801_189602237030911_4519490096601411284_n.jpg" width="120" alt="ABA Logo" />
+</p>
+
+💳 ABA Bank Clone - Flutter Banking App
+💻 Sereyodam Chek
 
 <div align="center">
 
