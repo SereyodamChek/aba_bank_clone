@@ -223,6 +223,6 @@ If you have any questions or need help, please open an issue or contact me direc
 
 **Made with ❤️ using Flutter** | 🎓 Student Assignment Project
 
-⭐ Star this repo if you find it helpful!
+⭐ Star this repo if you find it helpful!!
 
 </div>
