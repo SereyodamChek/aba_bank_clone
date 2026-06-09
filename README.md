@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://goldzonemedia.com.kh/wp-content/uploads/2024/01/352410801_189602237030911_4519490096601411284_n.jpg" width="120" alt="ABA Logo" />
+  <img src="https://camo.githubusercontent.com/b4463a41d88367e1cb4a15591d611b01f64d41014d19ec5f15cb078e489af0dd/68747470733a2f2f65636f6c657061756c64756272756c652e6f72672f77702d636f6e74656e742f75706c6f6164732f323032342f30352f4142415f4c6f676f2e706e67" width="150" height="60" alt="ABA Logo" />
 </p>
 
 💳 ABA Bank Clone - Flutter Banking App
